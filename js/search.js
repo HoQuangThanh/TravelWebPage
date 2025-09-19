@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 name: "Kinkaku-ji (Golden Pavilion)",
                 description: "A Zen Buddhist temple in Kyoto, famous for its golden exterior and serene pond.",
-                image: "images/Kinkaku-ji.png"
+                image: "images/Kinkaku-ji.jpg"
             },
             {
                 name: "Todai-ji",
